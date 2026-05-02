@@ -14,11 +14,16 @@ Currently finishing my final year — open to frontend & full-stack opportunitie
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufal-backup&show_icons=true&hide_border=true&count_private=true&theme=default)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naufal-backup&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufal-backup&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=8b949e&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-backup&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naufal-backup&hide_border=true&theme=minimal)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naufal-backup&hide_border=true&theme=github-dark-blue&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naufal-backup&hide_border=true&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=ffffff)
+
+</div>
 
 ---
 
