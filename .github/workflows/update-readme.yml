@@ -4,10 +4,19 @@ on:
   schedule:
     - cron: '0 0 * * *'  # runs every day at midnight UTC
   workflow_dispatch:       # allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
