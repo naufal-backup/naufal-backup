@@ -5,7 +5,6 @@ Frontend & Full-Stack Developer · Software Engineering Student @ Telkom Univers
 I build responsive, clean web apps using **React.js**, **Next.js**, and **Laravel**.  
 Currently finishing my final year — open to frontend & full-stack opportunities.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-02%20May%202026-8b949e?style=flat-square&labelColor=0d1117)
 
 ---
 
